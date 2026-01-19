@@ -1,0 +1,7 @@
+{
+  "name": "Kirana Price Scout",
+  "description": "Snap a photo of any grocery item to instantly find its real-time market price, weight-based estimates, and official brand pricing using Gemini AI with Google Search grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
